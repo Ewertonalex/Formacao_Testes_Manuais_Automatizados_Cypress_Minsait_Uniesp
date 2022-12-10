@@ -42,6 +42,24 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 )
 </div>
 
+<h2>Sumário </h2>
+ 
+ - [❓ O que veremos nesse Projeto?](#-o-que-veremos-nesse-projeto)
+ - [❓ O que é o _ServeRest_?](#-o-que-é-o-serverest)
+ - [🧾 Plano de Testes](#-plano-de-testes)
+ - [🧾 Relatório de Execução](#-relatório-de-execução)
+ - [✅ Execução dos Testes no Postman e Relatório HTML no Newman](#-execução-dos-testes-no-postman-e-relatório-html-no-newman)
+ - [🔧 Ferramentas Necessárias](#-ferramentas-necessárias)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<img src="https://static.wikia.nocookie.net/ce3765bc-182b-4697-902b-6dc7acc84e48" width=80>
+
+### ❓ O que veremos nesse Projeto?
+
+Esse Projeto é parte final da Trilha Rocketman do Programa de Bolsas da Compass.Uol.<br>
+Tem como objetivo avaliar todo conhecimento adquirido em cada Sprint.
+
 ### Introdução aos testes e qualidade
 
 Nesta aula aprendemos conceitos e exemplos práticos sobre teste, qualidade e qual o papel do QA em time ágil. Os principais pontos abordados foram:
