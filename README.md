@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 # Sumário:
 
- - [🧾 Aula 01 - Introdução aos testes e qualidade](#-aula-01---introdução-aos-testes-e-qualidade)
+ - [🧾 Aula 01 - Introdução aos testes e qualidade](#-aula-01-introdução-aos-testes-e-qualidade)
  - [🧾 Aula 02 - Tipos e Técnicas de Testes](#-o-que-é-o-serverest)
  - [🧾 Aula 03 - Processo de Teste](#-plano-de-testes)
  - [🧾 Aula 04 - Introdução à Automação de Testes](#-relatório-de-execução)
