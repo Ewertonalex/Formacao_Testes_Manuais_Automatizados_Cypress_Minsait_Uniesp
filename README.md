@@ -11,10 +11,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
   
 </div>
 
-# Objetivo:
-Repositório, referente ao curso de Formação de Testes Manuais e Automatizados,
-ministrado pela <strong>MINSAIT</strong> em parceria com a <strong>UNIESP</strong>.<br>
-O curso teve por objetivo, habilitar estudantes à entender os conceitos de testes e qualidade, testes manuais e automação de testes com Cypress.
 
 <div align="center">
 
@@ -44,8 +40,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <h2>Sumário </h2>
  
- - [❓ Introdução aos testes e qualidade](#-introdução-aos-testes-e-qualidade)
- - [❓ O que é o _ServeRest_?](#-o-que-é-o-serverest)
+ - [❓ O que veremos nesse Projeto?](#-o-que-veremos-nesse-projeto)
+ - [🧾 Tipos e Técnicas de Testes](#-tipo-e-técnincas-de-testes)
  - [🧾 Plano de Testes](#-plano-de-testes)
  - [🧾 Relatório de Execução](#-relatório-de-execução)
  - [✅ Execução dos Testes no Postman e Relatório HTML no Newman](#-execução-dos-testes-no-postman-e-relatório-html-no-newman)
@@ -57,8 +53,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 ### ❓ O que veremos nesse Projeto?
 
-Esse Projeto é parte final da Trilha Rocketman do Programa de Bolsas da Compass.Uol.<br>
-Tem como objetivo avaliar todo conhecimento adquirido em cada Sprint.
+Repositório, referente ao curso de Formação de Testes Manuais e Automatizados,
+ministrado pela <strong>MINSAIT</strong> em parceria com a <strong>UNIESP</strong>.<br>
+O curso teve por objetivo, habilitar estudantes à entender os conceitos de testes e qualidade, testes manuais e automação de testes com Cypress.
 
 ### Introdução aos testes e qualidade
 
@@ -85,7 +82,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 </div>
 
 
-# Aula 02 - Níveis de Testes, Tipos de Testes e Técnicas de Testes
+### Tipos e Técnicas de Testes
 
 Nesta aula conseguimos comprender as diferenças entres os testes e suas técnicas. Os principais pontos abordados foram:
 
