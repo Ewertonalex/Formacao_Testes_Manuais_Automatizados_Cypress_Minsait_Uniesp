@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 )
 </div>
 
-# Sumário:
+<!-- # Sumário:
 
  - [🧾 Aula 01 - Introdução aos testes e qualidade](#-introdução-aos-testes-e-qualidade)
  - [🧾 Aula 02 - Tipos e Técnicas de Testes](#-o-que-é-o-serverest)
@@ -40,11 +40,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 )
-</div>
+</div> -->
 
 <h2>Sumário </h2>
  
- - [❓ O que veremos nesse Projeto?](#-o-que-veremos-nesse-projeto)
+ - [❓ Introdução aos testes e qualidade](#-introdução-aos-testes-e-qualidade)
  - [❓ O que é o _ServeRest_?](#-o-que-é-o-serverest)
  - [🧾 Plano de Testes](#-plano-de-testes)
  - [🧾 Relatório de Execução](#-relatório-de-execução)
