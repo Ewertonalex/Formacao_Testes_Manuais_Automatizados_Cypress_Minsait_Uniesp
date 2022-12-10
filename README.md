@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 )
 </div>
 
-# Introdução aos testes e qualidade
+### Introdução aos testes e qualidade
 
 Nesta aula aprendemos conceitos e exemplos práticos sobre teste, qualidade e qual o papel do QA em time ágil. Os principais pontos abordados foram:
 
