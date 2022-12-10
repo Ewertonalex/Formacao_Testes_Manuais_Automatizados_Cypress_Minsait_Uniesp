@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 </div>
 
 
-### Tipos e Técnicas de Testes
+### 🧾 Tipos e Técnicas de Testes
 
 Nesta aula conseguimos comprender as diferenças entres os testes e suas técnicas. Os principais pontos abordados foram:
 
