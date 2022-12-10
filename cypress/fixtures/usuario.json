@@ -1,0 +1,35 @@
+{
+    "cadastro": {
+        "firstNome": "Ewerton",
+        "lastNome": "Alexander",
+        "address": "Avenida Cabo Branco, 77",
+        "email": "teste@teste.com",
+        "phone": "1234567890",
+        "password": "password",
+        "confpassword": "password",  
+        "photo": "photo.png",
+        "botaoSubmit": "Submit"            
+    },
+    "email_invalido": {
+        "firstNome": "Enzo",
+        "lastNome": "Oliveira",
+        "address": "Avenida Cabo Branco, 77",
+        "email": "testeteste.com",
+        "phone": "1234567890",
+        "password": "password",
+        "confpassword": "password",   
+        "photo": "photo.png",
+        "botaoSubmit": "Submit"
+    },
+    "phone_invalido": {
+        "firstNome": "Matteo",
+        "lastNome": "Lopes",
+        "address": "Avenida Cabo Branco, 77",
+        "email": "testeteste.com",
+        "phone": "abcde",
+        "password": "password",
+        "confpassword": "password",   
+        "photo": "photo.png",
+        "botaoSubmit": "Submit"
+    }
+}
