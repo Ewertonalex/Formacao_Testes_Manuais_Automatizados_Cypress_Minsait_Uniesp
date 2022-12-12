@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
  - 🧾 Aula 04 - Introdução à Automação de Testes
  - ✅ Aula 05 - Cypress - Exercício 01
  - ✅ Aula 06 - Cypress - Validando Interações 
- - 🎯 Desafio Final de Automação de Testes com Cypress 
+ - <strong>🎯 Desafio Final de Automação de Testes com Cypress</strong>
 
 
 <div align="center">
