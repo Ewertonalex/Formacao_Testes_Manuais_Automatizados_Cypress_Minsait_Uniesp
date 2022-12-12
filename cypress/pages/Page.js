@@ -4,7 +4,7 @@ class Page {
     go() { //entrar na pagina e testes de titulo h1
         cy.viewport(1440, 900) //Definir resolução  
         cy.visit('https://opensource-demo.orangehrmlive.com/') //Entrar na página
-        //cy.get('img[src="/web/images/ohrm_branding.png?1666596668857"]').should('exist') //Verificando se contem imagem no título
+        
         
     }
     login(login) { //massa de testes para preencher formulário
