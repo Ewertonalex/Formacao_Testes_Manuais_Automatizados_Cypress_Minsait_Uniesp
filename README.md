@@ -193,15 +193,34 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 </div>
 
-#### Desafio:
+#### 📌 Desafio:
 
-- csfsfs
-- sffsf
+Dado o site: https://opensource-demo.orangehrmlive.com/
 
+Realize a criação de um <strong>novo projeto</strong> com o framework Cypress com as seguintes condições:
+
+1. Crie no mínimo 2 e no máximo 3 suítes de testes (Arquivos de testes);
+2. Crie para cada suíte de teste no mínimo 2 e no máximo 4 Casos de testes.
+
+<strong>Serão avaliados:</strong>
+- Boas práticas e configuração do projeto;
+- Estruturas dos testes, bem como seus fluxos;
+- Boa práticas na utilização dos comandos e seletores Cypress;
+- Simplicidade e independência dos casos de teste;
+- Validações nos fluxos de testes.
+
+<strong>Resposta:</strong>
+
+<div align="center">
+
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/exercicio01.gif"><br>
+
+</div>
 
 
 <strong>Clique abaixo</strong> para saber mais 👇 <br>
 [<img src="https://blog.cod3r.com.br/wp-content/uploads/2022/06/piramide-de-testes.png" width=140><br>](https://github.com/Ewertonalex/AdotaPet/tree/main/api)
+
 
 <div align="center">
   
