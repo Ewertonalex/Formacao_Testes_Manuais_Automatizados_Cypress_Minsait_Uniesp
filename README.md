@@ -147,7 +147,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 ### ✅ Aula 05 - Cypress - Exercício 01
 
+<div align="center">
+
 <img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/exercicio%2001.png"><br>
+
+</div>
+
 
 
 <strong>Clique abaixo</strong> para saber mais 👇 <br>
