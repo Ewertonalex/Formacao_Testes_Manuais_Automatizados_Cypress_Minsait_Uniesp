@@ -168,8 +168,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 ### ✅ Aula 06 - Cypress - Validando Interações 
 
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/interacoes.png"><br>
+
 <strong>Clique abaixo</strong> para saber mais 👇 <br>
-[<img src="https://blog.cod3r.com.br/wp-content/uploads/2022/06/piramide-de-testes.png" width=140><br>](https://github.com/Ewertonalex/AdotaPet/tree/main/api)
+[<img src="https://1.bp.blogspot.com/-mXn1YIpBra0/WNmzMg6BtJI/AAAAAAAAAeA/nDuGVXZu9ZweDZwcw6tkjkYvD_er8TIkwCEw/s1600/redes-sociais.jpg" width=140><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/e2e/interacoes.cy.js)
 
 <div align="center">
   
