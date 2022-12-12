@@ -151,7 +151,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/exercicio%2001.png"><br>
 
-<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/exercicio.mp4"><br>
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/exercicio01.gif"><br>
 
 </div>
 
