@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Formação em Testes Manuaise Automatizadose Cypresse Minsait/Uniesp</h1>
+<h1>Formação em Testes Manuaise Automatizados Cypress Minsait/Uniesp</h1>
 
 
 
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 ### ❓ O que veremos nesse Projeto?
 
 Repositório, referente ao curso de Formação de Testes Manuais e Automatizados,
-ministrado pela <strong>MINSAIT</strong> em parceria com a <strong>UNIESP</strong>.<br>
+ministrado pela <a href="https://www.minsait.com/pt"><strong>MINSAIT</strong></a> em parceria com a <a href="https://www.iesp.edu.br/"><strong>UNIESP</strong></a><br>
 O curso teve por objetivo, habilitar estudantes à entender os conceitos de testes e qualidade, testes manuais e automação de testes com Cypress.
 
 <div align="center">
