@@ -73,7 +73,7 @@ Nesta aula aprendemos conceitos e exemplos práticos sobre teste, qualidade e qu
 - Visão do analista de testes;
 
 <strong>Clique abaixo</strong><br>para saber mais 👇 <br>
-[<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/121704365/original/30a8b4c19d3df303a3cc32a2dba67f3110236aba/qa-analista-de-qualidade.jpg" width=160><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/Treinamento%20de%20Testes%20Funcionais%20-%20Aula01.pdf)
+[<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/121704365/original/30a8b4c19d3df303a3cc32a2dba67f3110236aba/qa-analista-de-qualidade.jpg" width=160><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/Treinamento%20de%20Testes%20Funcionais%20-%20Aula01.pdf)
 
 
 
@@ -107,7 +107,7 @@ Nesta aula conseguimos comprender as diferenças entres os testes e suas técnic
     - Teste de Caso de Uso;
 
 <strong>Clique abaixo</strong><br>para saber mais 👇 <br>
-[<img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width=160><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/Treinamento%20de%20Testes%20Funcionais%20-%20Aula02.pdf)
+[<img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width=160><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/Treinamento%20de%20Testes%20Funcionais%20-%20Aula02.pdf)
 
 <div align="center">
   
@@ -128,7 +128,7 @@ Nesta aula conseguimos comprender as diferenças entres os testes e suas técnic
 - Execução e Gerenciamento de Incidentes
 
 <strong>Clique abaixo</strong><br>para saber mais 👇 <br>
-[<img src="https://media-exp1.licdn.com/dms/image/C4E12AQFgJsCwvXhYGg/article-cover_image-shrink_600_2000/0/1645226527773?e=2147483647&v=beta&t=4r-ClUkbckD2Dw18TKNdf79pxxLKtr3GM8uImqa851Y" width=180><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/Treinamento%20de%20Testes%20Funcionais%20-%20Aula03.pdf)
+[<img src="https://media-exp1.licdn.com/dms/image/C4E12AQFgJsCwvXhYGg/article-cover_image-shrink_600_2000/0/1645226527773?e=2147483647&v=beta&t=4r-ClUkbckD2Dw18TKNdf79pxxLKtr3GM8uImqa851Y" width=180><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/Treinamento%20de%20Testes%20Funcionais%20-%20Aula03.pdf)
 
 <div align="center">
   
@@ -151,7 +151,7 @@ Depois de aprender todos os conceitos de testes, entramos no mundo das automaç�
 - Iniciando na automação - Meu primeiro teste
 
 <strong>Clique abaixo</strong><br>para saber mais 👇 <br>
-[<img src="https://blog.cod3r.com.br/wp-content/uploads/2022/06/piramide-de-testes.png" width=180><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/Automa%C3%A7%C3%A3o%20-%20Aula04.pdf)
+[<img src="https://blog.cod3r.com.br/wp-content/uploads/2022/06/piramide-de-testes.png" width=180><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/Automa%C3%A7%C3%A3o%20-%20Aula04.pdf)
 
 <div align="center">
   
@@ -165,14 +165,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <div align="center">
 
-<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/exercicio%2001.png"><br>
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/exercicio%2001.png"><br>
 
-<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/exercicio01.gif"><br>
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/exercicio01.gif"><br>
 
 </div>
 
 <strong>Clique abaixo</strong><br>para saber mais 👇 <br>
-[<img src="https://cdn-icons-png.flaticon.com/512/214/214353.png" width=140><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/e2e/exercicioAula02.cy.js)
+[<img src="https://cdn-icons-png.flaticon.com/512/214/214353.png" width=140><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/e2e/exercicioAula02.cy.js)
 
 <div align="center">
   
@@ -186,12 +186,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <div align="center">
 
-<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/interacoes.png" width=480><br>
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/interacoes.png" width=480><br>
 
 </div>
 
 <strong>Clique abaixo</strong><br>para saber mais 👇 <br>
-[<img src="https://1.bp.blogspot.com/-mXn1YIpBra0/WNmzMg6BtJI/AAAAAAAAAeA/nDuGVXZu9ZweDZwcw6tkjkYvD_er8TIkwCEw/s1600/redes-sociais.jpg" width=180><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/e2e/interacoes.cy.js)
+[<img src="https://1.bp.blogspot.com/-mXn1YIpBra0/WNmzMg6BtJI/AAAAAAAAAeA/nDuGVXZu9ZweDZwcw6tkjkYvD_er8TIkwCEw/s1600/redes-sociais.jpg" width=180><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/e2e/interacoes.cy.js)
 
 <div align="center">
   
@@ -205,7 +205,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <div align="center">
 
-<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/desafio%20final.gif" height= 180 width=480><br>
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/desafio%20final.gif" height= 180 width=500><br>
 
 </div>
 
@@ -229,7 +229,7 @@ Realize a criação de um <strong>novo projeto</strong> com o framework Cypress 
 
 <div align="center">
 
-<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/desafio%20final2.gif"><br>
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/desafio%20final2.gif"><br>
 
 <!-- <img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/desafio%20final3.gif.png" width=480><br>
 
