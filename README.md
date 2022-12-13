@@ -1,9 +1,15 @@
 <div align="center">
 
-[<img src="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Minsait-logo-2016-nuevo.png?fit=550%2C268&ssl=1" width=240><br>](https://www.minsait.com/pt)
-[<img src="https://storage.googleapis.com/sindesep.org.br/uploads/2020/04/85f78712543c4be4925deb1472c4cbb2.png" width=240><br>](https://matriculas.iesp.edu.br/)
 
-<img src="" width=220><br>
+
+<strong></strong>
+[<img src="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Minsait-logo-2016-nuevo.png?fit=550%2C268&ssl=1" width=180><br>](https://www.minsait.com/pt)
+
+<strong></strong>
+[<img src="https://storage.googleapis.com/sindesep.org.br/uploads/2020/04/85f78712543c4be4925deb1472c4cbb2.png" width=180><br>](https://www.iesp.edu.br/)
+
+
+
 <img src="https://static.wikia.nocookie.net/ce3765bc-182b-4697-902b-6dc7acc84e48" width=80>
 
 
@@ -64,6 +70,10 @@ Nesta aula aprendemos conceitos e exemplos práticos sobre teste, qualidade e qu
 
 <strong>Clique abaixo</strong> para saber mais 👇 <br>
 [<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/121704365/original/30a8b4c19d3df303a3cc32a2dba67f3110236aba/qa-analista-de-qualidade.jpg" width=140><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Aulas/cypress/downloads/Treinamento%20de%20Testes%20Funcionais%20-%20Aula01.pdf)
+
+
+
+
 
 <div align="center">
   
