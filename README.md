@@ -247,7 +247,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.javascript.com/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100px;" alt=""/><br /><sub><b>JavaScript</b></sub></a></td>
+    <td align="center"><a href="https://www.javascript.com/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60px;" alt=""/><br /><sub><b>JavaScript</b></sub></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="100px;" alt=""/><br /><sub><b>Node.js</b></sub></a></td>    
   
         
