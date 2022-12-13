@@ -234,6 +234,34 @@ Realize a criação de um <strong>novo projeto</strong> com o framework Cypress 
 4. Criei uma pasta chamada `pages` onde dentro dela criei os arquivos `AdminPage.js e Page.js` que receberam os cógidos para realizarem as validações;
 5. Criei a pasta `factories` e dentro dela o arquivo `PageFactory.js`, onde criei uma pequena massa de testes usando o "faker", para incluir dados dinâmicos aos testes;
 6. No arquivo `desafioFinal.cy.js`, faço importações das pastas criadas fazendo chamada a massa de testes e as funções criadas no Page Object.
+7. Por fim gerei um relatório HTML, usando o mochawesome?
+    - Instalei o cypress-mochawesome-reporter o usando o comando `npm i --save-dev cypress-mochawesome-reporter`;
+    - Modifiquei as informações do arquivo `cypress.config.s` para:
+        
+  ```
+        const { defineConfig } = require("cypress");
+
+module.exports = defineConfig({
+  e2e: {
+    setupNodeEvents(on, config) {
+      // implement node event listeners here
+    },
+    reporter: "mochawesome",
+    reporterOptions: {
+      reportDir: "cypress/report/mochawesome-report",
+      overwrite: true,
+      html: true,
+      json: false,
+      timestamp: "mmddyyyy_HHMMss",
+    },
+  },
+});
+  ```
+   - Adicionei ao arquivo `cypress/support/e2e.js` o `import 'cypress-mochawesome-reporter/register';`
+   - No terminal executei comando `npx cypress run --reporter mochawesome`, onde ele executa os teste, cria uma pasta report e gera o relatório HTML de testes, como abaixo:
+
+   <img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/VIDEO01DESAFIO.gif">
+
 
 
 <div align="center">
