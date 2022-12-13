@@ -264,7 +264,7 @@ module.exports = defineConfig({
 
 <div align="center">
 
-   <img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/relatoriohtml.png" width=380>
+   <img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/relatoriohtml.png" width=520>
 
 
 
