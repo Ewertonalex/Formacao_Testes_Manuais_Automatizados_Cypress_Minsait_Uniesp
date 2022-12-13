@@ -243,29 +243,23 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <div align="center">
 
-### 👏  Projeto realizado por:
+
 
 <table>
   <tr>
+    <td align="center"><a href="https://www.cypress.io/"><img style="border-radius: 50%;" src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/original/logo_landscape_(1).png?1643756332" width="247px;" alt=""/><br /><sub><b>Cypress</b></sub></a></td>
     <td align="center"><a href="https://www.javascript.com/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60px;" alt=""/><br /><sub><b>JavaScript</b></sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="100px;" alt=""/><br /><sub><b>Node.js</b></sub></a></td>    
-    <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/original/logo_landscape_(1).png?1643756332" width="247px;" alt=""/><br /><sub><b>Cypress</b></sub></a></td>
+    <td align="center"><a href="https://nodejs.org/en/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="100px;" alt=""/><br /><sub><b>Node.js</b></sub></a></td>        
+    <td align="center"><a href="https://code.visualstudio.com/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="70px;" alt=""/><br /><sub><b>VS Code</b></sub></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img style="border-radius: 50%;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="70px;" alt=""/><br /><sub><b>Git</b></sub></a></td>
+    <td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="70px;" alt=""/><br /><sub><b>GitHub</b></sub></a></td>
   
         
   </tr>
 </table>
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=80>
 
-
-
-- JavaScript
-- Node.js
-- Cypress
-- Visual Studio Code
-- Git
-- GitHub
 
 <div align="center">
   
@@ -277,7 +271,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <div align="center">
 
-### 👏  Projeto realizado por:
+### <br>👏  Projeto realizado por:
 
 <table>
   <tr>
