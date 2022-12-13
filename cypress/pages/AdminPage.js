@@ -24,7 +24,8 @@ class AdminPage {
         cy.get('.oxd-autocomplete-dropdown').click() //clicando no botão search
     }
     myInfo() {
-        cy.get(':nth-child(6) > .oxd-main-menu-item > .oxd-text').click()
+        cy.get('input[placeholder="Search"]').type('My Info')
+        cy.get('.oxd-main-menu-item .oxd-text').click()
         cy.get('input[name="firstName"]').clear()
             .type('Ewerton')                       
         cy.get('input[name="middleName"]').clear()
@@ -41,4 +42,5 @@ class AdminPage {
 }
 
 export default new AdminPage;
+
 

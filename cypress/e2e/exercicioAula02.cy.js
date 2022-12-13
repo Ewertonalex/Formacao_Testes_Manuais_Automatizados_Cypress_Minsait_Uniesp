@@ -4,13 +4,7 @@ import signup from '../pages/SignupPage' //importando a classe instaciada Signup
 import SignupFactory from '../factories/SignupFactory' //importando modulo criado na pasta factories
 
 
-describe('Cadastro', () => {
-
-    // beforeEach(function() { 
-    //     cy.fixture('usuario').then((u) => {   //cypress identifica o aqruivo json la do fixtures so pelo nome dele / then paera pegar o resultado da massa de testes / u = abreviação de usuario
-    //         this.usuario = u //this = palavra reservada para criar uma variavel de contexto que é o usuario que recebe o resultado de u que é massa de testes do arquivo.json
-    //     })
-    // })
+describe('Cadastro', () => {    
 
     afterEach(() => {
         cy.get('#submitbtn').click() //botao Submit

@@ -8,12 +8,12 @@ import AdminPage from '../pages/AdminPage'
 
 describe('Desafio final, Validando página de Login ', () => {
     
-    xit('Validando título da página', function () {      
+    it('Validando título da página', function () {      
 
         page.go() // fazendo chamada às funções do Page Object para acessr página      
                 
     })
-    xit('Validando login com sucesso', function () {      
+    it('Validando login com sucesso', function () {      
 
         var login = PageFactory.usuario() //vai criar massa de teste
         login.login = 'Admin'  //mudando dado na massta de testes
@@ -24,7 +24,7 @@ describe('Desafio final, Validando página de Login ', () => {
         page.submit()
                 
     })
-    xit('Validando acesso com login inválido', function () {      
+    it('Validando acesso com login inválido', function () {      
 
         var login = PageFactory.usuario() //vai criar massa de teste
         login.password = 'admin123'  //mudando dado na massta de testes
@@ -34,7 +34,7 @@ describe('Desafio final, Validando página de Login ', () => {
         page.submit() //fazendo chamada às funções do Page Object para clicar no botão login
                 
     })
-    xit('Validando acesso com senha inválida', function () {      
+    it('Validando acesso com senha inválida', function () {      
 
         var login = PageFactory.usuario() //vai criar massa de teste
         login.login = 'Admin'  //mudando dado na massta de testes
@@ -44,7 +44,7 @@ describe('Desafio final, Validando página de Login ', () => {
         page.submit() //fazendo chamada às funções do Page Object para clicar no botão login
                 
     })
-    xit('Validando mensagem de erro nas crendiais de login', function () {    
+    it('Validando mensagem de erro nas crendiais de login', function () {    
         
         var login = PageFactory.usuario() //vai criar massa de teste
 
@@ -54,25 +54,32 @@ describe('Desafio final, Validando página de Login ', () => {
         page.modalContentShoulBe('Invalid credentials') // fazendo chamada às funções do Page Object para validar texto de erro
                 
     })
-    xit('Validando acesso com login e senha vazios', function () {      
+    it('Validando acesso com login e senha vazios', function () {      
                
         page.go() // fazendo chamada às funções do Page Object para acessr página        
         page.submit()
                 
     })
-    xit('Validando mensagem de campos obrigatórios', function () {      
+    
+    it('Link de recuperar senha', function () {      
+               
+        page.go() // fazendo chamada às funções do Page Object para acessr página
+        page.recpassword('Reset Password link sent successfully') // fazendo chamada às funções do Page Object para clicar no link de recuperar senha e validar mensangem de sucesso  
+                        
+    })            
+})
+
+describe('Desafio final, Validando mensagem de campos obrigatórios ', () => {
+
+    it('Validando mensagem de campos obrigatórios', function () {      
                
         page.go() // fazendo chamada às funções do Page Object para acessr página        
         page.submit()
         page.alertMessageShouldBe('Required')
                 
     })
-    xit('Link de recuperar senha', function () {      
-               
-        page.go() // fazendo chamada às funções do Page Object para acessr página
-        page.recpassword('Reset Password link sent successfully') // fazendo chamada às funções do Page Object para clicar no link de recuperar senha e validar mensangem de sucesso  
-                        
-    })            
+
+    
 })
 
 describe('Desafio final, Validando campo Admin ', () => {
@@ -82,12 +89,12 @@ describe('Desafio final, Validando campo Admin ', () => {
         AdminPage.submit()
     })
     
-    xit('Validar buscar usuário por Username', function () {      
+    it('Validar buscar usuário por Username', function () {      
 
         AdminPage.findUsername()
                         
     })
-    xit('Validar buscar usuário por Nome', function () {      
+    it('Validar buscar usuário por Nome', function () {      
 
         AdminPage.findName()
                         
