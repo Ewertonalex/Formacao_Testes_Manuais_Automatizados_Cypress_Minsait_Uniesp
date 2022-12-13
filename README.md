@@ -227,7 +227,7 @@ Realize a criação de um <strong>novo projeto</strong> com o framework Cypress 
 
 
 <strong>Clique abaixo</strong> para acessar<br>o arquivo compactado 👇 <br>
-[<img src="https://i.gifer.com/WsCj.gif" width=240><br>](https://github.com/Ewertonalex/AdotaPet/tree/main/api)
+[<img src="https://pornazi.com/slide/16201991/95/images/2/The+Final+Challenge.jpg" width=240><br>](https://github.com/Ewertonalex/AdotaPet/tree/main/api)
 
 
 <div align="center">
