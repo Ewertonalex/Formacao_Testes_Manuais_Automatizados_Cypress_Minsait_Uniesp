@@ -256,7 +256,9 @@ module.exports = defineConfig({
     },
   },
 });
-  ```
+    ```
+
+
    - Adicionei ao arquivo `cypress/support/e2e.js` o `import 'cypress-mochawesome-reporter/register';`
    - No terminal executei comando `npx cypress run --reporter mochawesome`, onde ele executa os teste, cria uma pasta report e gera o relatório HTML de testes, como abaixo:
 
