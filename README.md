@@ -229,9 +229,9 @@ Realize a criação de um <strong>novo projeto</strong> com o framework Cypress 
 
 <div align="center">
 
-<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/VIDEO01DESAFIO.gif" height= 200 width=320>
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/VIDEO01DESAFIO.gif">
 
-<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/VIDEO02DESAFIO.gif" height= 200 width=320>
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/VIDEO02DESAFIO.gif">
 
 
 
