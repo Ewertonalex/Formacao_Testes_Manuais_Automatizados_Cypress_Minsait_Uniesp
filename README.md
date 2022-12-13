@@ -227,11 +227,28 @@ Realize a criação de um <strong>novo projeto</strong> com o framework Cypress 
 
 <strong>Resposta:</strong>
 
+1. Criei um novo projeto chamado "Desafio Final";
+    - Está na pasta compactada <a href="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Desafio%20Final.rar"><strong>Desafio Final.rar</strong></a> e também deixei copiado no corpo deste projeto das aulas;
+2. Decidi para este projeto utilizar o padrão de design Page Object;
+3. Criei na pasta e2e o arquivo `desafioFinal.cy.js`, onde criei minha suítes de testes;
+4. Criei uma pasta chamada `pages` onde dentro dela criei os arquivos `AdminPage.js e Page.js` que receberam os cógidos para realizarem as validações;
+5. Criei a pasta `factories` e dentro dela o arquivo `PageFactory.js`, onde criei uma pequena massa de testes usando o "faker", para incluir dados dinâmicos aos testes;
+6. No arquivo `desafioFinal.cy.js`, faço importações das pastas criadas fazendo chamada a massa de testes e as funções criadas no Page Object.
+
+
 <div align="center">
 
 <img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/VIDEO01DESAFIO.gif">
 
 <img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/VIDEO02DESAFIO.gif">
+
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/SUITES.png" width=280>
+
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/PO1.png" width=280>
+
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/PO2.png" width=280>
+
+<img src="https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/cypress/downloads/PF.png" width=280>
 
 
 
