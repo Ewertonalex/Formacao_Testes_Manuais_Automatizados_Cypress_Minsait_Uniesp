@@ -287,7 +287,7 @@ module.exports = defineConfig({
 
 
 <br><strong>Clique abaixo</strong> para acessar<br>o arquivo compactado 👇 <br>
-[<img src="https://pornazi.com/slide/16201991/95/images/2/The+Final+Challenge.jpg" width=240><br>](https://github.com/Ewertonalex/AdotaPet/tree/main/api)
+[<img src="https://pornazi.com/slide/16201991/95/images/2/The+Final+Challenge.jpg" width=240><br>](https://github.com/Ewertonalex/Formacao_Testes_Manuais_Automatizados_Cypress_Minsait_Uniesp/blob/main/Desafio%20Final.rar)
 
 
 <div align="center">
