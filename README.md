@@ -241,6 +241,24 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 ### Ferramentas e Tecnologias utilizadas:
 
+<div align="center">
+
+### 👏  Projeto realizado por:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.javascript.com/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100px;" alt=""/><br /><sub><b>JavaScript</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="100px;" alt=""/><br /><sub><b>Node.js</b></sub></a></td>    
+  
+        
+  </tr>
+</table>
+</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=80>
+
+
+
 - JavaScript
 - Node.js
 - Cypress
@@ -262,10 +280,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/D4D03AQEfv2gYZbR7rw/profile-displayphoto-shrink_400_400/0/1669287148190?e=1675296000&v=beta&t=boAVRYRWPbQjEg6FpSpv8HUSOHFQQyr1qusm62yaja8" width="100px;" alt=""/><br /><sub><b>Ewerton Alexander</b></sub></a><br />👨‍🚀</a></td>
-  
-  
-  
+    <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/D4D03AQEfv2gYZbR7rw/profile-displayphoto-shrink_400_400/0/1669287148190?e=1675296000&v=beta&t=boAVRYRWPbQjEg6FpSpv8HUSOHFQQyr1qusm62yaja8" width="100px;" alt=""/><br /><sub><b>Ewerton Alexander</b></sub></a><br />👨‍🚀</a></td>  
   
         
   </tr>
