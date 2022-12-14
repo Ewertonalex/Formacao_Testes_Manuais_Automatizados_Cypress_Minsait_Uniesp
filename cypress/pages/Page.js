@@ -3,9 +3,13 @@
 class Page {
     go() { //entrar na pagina e testes de titulo h1
         cy.viewport(1440, 900) //Definir resolução  
-        cy.visit('https://opensource-demo.orangehrmlive.com/') //Entrar na página
-        
-        
+        cy.visit('https://opensource-demo.orangehrmlive.com/') //Entrar na página    
+    }
+    pageCorrect() { 
+
+        cy.get("input[name='username']").should("be.visible")
+        cy.get('input[type="password"]').should("be.visible")       
+        cy.get("button[type='submit']").should("be.visible")
     }
     login(login) { //massa de testes para preencher formulário
 
@@ -21,13 +25,18 @@ class Page {
 
     alertMessageShouldBe(expectedMessage) {
         cy.contains('.oxd-text--span', expectedMessage).should('be.visible')
-        //cy.get(':nth-child(2) > .oxd-input-group > .oxd-text')
+        
     }
     recpassword(expectedMessageSucess) {
         cy.get('.orangehrm-login-forgot').click() //validando link recuperar senha
         cy.get('.oxd-input').type('Admin') // validar Preechendo campo usermane
         cy.get('button[type="submit"]').click() //validar click no botão reset
         cy.get('.oxd-text--h6').should('have.text', expectedMessageSucess) // validando mensangem de sucesso
+    }
+    refresPage() {
+        cy.get('.orangehrm-login-forgot').click() //validando link recuperar senha
+        cy.get('.oxd-input').type('Admin') // validar Preechendo campo usermane
+        cy.get("button[type='button']").click();
     }       
 }
 
