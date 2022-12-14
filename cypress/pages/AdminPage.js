@@ -14,6 +14,7 @@ class AdminPage {
     findUsername() {
         cy.get(':nth-child(1) > .oxd-main-menu-item').click() //Clicar em Admin
         cy.get('.oxd-input-group input[class="oxd-input oxd-input--active"]').type('John.Smith') // Fazendo pesquisa por Username
+            cy.wait(3000)
         cy.get('button[type="submit"]').click() //clicando no botão search
     }
     findName() {
